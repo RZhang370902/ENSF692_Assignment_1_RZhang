@@ -1,3 +1,6 @@
+* Rick Zhang
+* "Believe you can and you're halfway there." — Theodore Roosevelt
+
 ## 📝 ENSF 692 - Assignment 1 Tasks
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
